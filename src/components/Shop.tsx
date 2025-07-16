@@ -114,7 +114,7 @@ const Shop: React.FC = () => {
 
 Veuillez me faire savoir la disponibilité et les détails d'expédition.`;
 
-    const whatsappUrl = `https://wa.me/22371780482?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/22383116186?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 
